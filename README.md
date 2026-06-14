@@ -48,8 +48,8 @@ rules for this splits variant:
   - splitting doesn't end the turn (split and strike).
 
 Command language:
-- Attack: A<your hand><AI's hand>
-- Split: S<Half value><AI's hand>
+- Attack: `A<your hand><AI's hand>`
+- Split: `S<half value><AI's hand>``
 
 where your hands' and AI's hands' left and right are denoted as 1 and 2.
 
