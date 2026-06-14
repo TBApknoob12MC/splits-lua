@@ -3,6 +3,7 @@
 A lua program that lets you play a variant of splits/chopsticks against a simple AI.
 
 ##Installation
+
 if you have [prefixell](https://github.com/TBApknoob12MC/prefixell) installed, run:
 ```bash
 prefixell pkg add gh:TBApknoob12MC/splits-lua
